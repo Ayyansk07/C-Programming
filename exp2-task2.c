@@ -1,5 +1,5 @@
 /*
-Name : Shaikh Ayayan
+Name : Shaikh Ayyan
 UIN - 251P001
 CLASS - COMP 1
 DIV - C

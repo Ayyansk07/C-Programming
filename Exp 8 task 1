@@ -1,0 +1,21 @@
+#include <stdio.h>
+/* 
+NAME SHAIKH MOHD AYYAN TOUFIQ AHMED
+UIN 251P001
+DIV  C COMPS 01
+*/
+int main() {
+    char str[100];
+    int i = 0;
+
+    printf("Enter a string: ");
+    scanf("%s", str);
+
+    while (str[i] != '\0') {
+        i++;
+    }
+
+    printf("Length = %d", i);
+
+    return 0;
+}
